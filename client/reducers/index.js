@@ -1,9 +1,9 @@
 import {combineReducers} from 'redux'
 
-//import tweets from './tweets'
+import rankList from './rankList'
 
 const reducers = combineReducers({
-  //tweets
+  rankList
 })
 
 export default reducers
